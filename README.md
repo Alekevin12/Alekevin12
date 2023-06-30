@@ -1,9 +1,7 @@
 Welcome to my GitHub profile! I'm Alekevin12, a passionate Full Stack Developer in love with my job. Feel free to take a tour and get to know me better. 😄
 
 ## About Me 🙌
-I'm an enthusiastic Full Stack Developer with almost 5 years of experience. Throughout my career, I've become a pro at Angular. I've got a solid foundation in JavaScript and a knack for Typescript.
-
-I'm a lifelong learner, always eager to stay updated with the latest trends and advancements in development. I thrive on challenging projects that let me flex my creative muscles and deliver extraordinary results. 🚀
+I'm a 25 years old Full Stack Developer with a passion for technology 👨‍💻, travel ✈️, video games 🎮 and keyboards ⌨️. With almost 5 years of experience, I enjoy creating innovative solutions and staying up-to-date with the latest trends. Outside of work, I'm an adventurous soul who seeks new experiences and embraces different cultures. Let's connect and explore the possibilities together!
 
 ## Currently learning 🌱
 * Java
