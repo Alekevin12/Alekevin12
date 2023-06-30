@@ -1,3 +1,5 @@
+# Alekevin12 · he/him
+
 Welcome to my GitHub profile! I'm Alekevin12, a passionate Full Stack Developer in love with my job. Feel free to take a tour and get to know me better. 😄
 
 ## About Me 🙌
