@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   .icon :is(source, img){
     width: 24px;
     transition: filter ease-in-out 200ms;
@@ -21,7 +21,7 @@
       filter: unset;
     }
   }
-</style>
+</style> -->
 
 <img src="images/header.png" width="100%" />
 
@@ -39,7 +39,7 @@ I'm a 25 years old Full Stack Developer with a passion for technology 👨‍�
 <picture class="icon">
   <source media="(prefers-color-scheme: dark)" srcset="icons/angularJs.svg">
   <source media="(prefers-color-scheme: light)" srcset="icons/angularJs.svg">
-  <img alt="AngularJs" title="AngularJs" width="24" src="icons/angularJs.svg">
+  <img alt="AngularJS" title="AngularJS" width="24" src="icons/angularJs.svg">
 </picture>
 &nbsp;
 <picture class="icon">
@@ -51,7 +51,7 @@ I'm a 25 years old Full Stack Developer with a passion for technology 👨‍�
 <picture class="icon">
   <source media="(prefers-color-scheme: dark)" srcset="icons/sass.svg">
   <source media="(prefers-color-scheme: light)" srcset="icons/sass.svg">
-  <img alt="Sass" title="Sass" width="24" src="icons/sass.svg">
+  <img alt="SASS" title="SASS" width="24" src="icons/sass.svg">
 </picture>
 &nbsp;
 <picture class="icon">
