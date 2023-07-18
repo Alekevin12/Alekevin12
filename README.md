@@ -23,7 +23,7 @@
   }
 </style>
 
-<img width="24" src="images/header.png" width="100%" />
+<img src="images/header.png" width="100%" />
 
 ## About Me 🙌
 
