@@ -27,7 +27,7 @@
 
 ## About Me 🙌
 
-I'm a 25 years old Full Stack Developer with a passion for technology 👨‍💻, travel ✈️, video games 🎮 and keyboards ⌨️. With almost 5 years of experience, I enjoy creating innovative solutions and staying up-to-date with the latest trends. Outside of work, I'm an adventurous soul who seeks new experiences and embraces different cultures. Let's connect and explore the possibilities together!   
+I'm a 25 years old Full Stack Developer with a passion for technology 👨‍💻, travel ✈️, video games 🎮 and keyboards ⌨️. With almost 5 years of working experience, I enjoy creating innovative solutions and staying up-to-date with the latest trends. Outside of work, I'm an adventurous soul who seeks new experiences and embraces different cultures. Let's connect and explore the possibilities together! 
 
 ## Languages 🗣️
 <picture class="icon">
