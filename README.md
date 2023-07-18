@@ -204,6 +204,20 @@ I'm a 25 years old Full Stack Developer with a passion for technology 👨‍�
 
 <br>
 
+## Analytics 📈
+
+<picture class="icon">
+  <source media="(prefers-color-scheme: dark)" srcset="icons/googleanalytics.svg">
+  <source media="(prefers-color-scheme: light)" srcset="icons/googleanalytics.svg">
+  <img alt="Google Analytics" title="Google Analytics" width="24" src="icons/googleanalytics.svg">
+</picture>
+<picture class="icon">
+  <source media="(prefers-color-scheme: dark)" srcset="icons/googletagmanager.svg">
+  <source media="(prefers-color-scheme: light)" srcset="icons/googletagmanager.svg">
+  <img alt="Google Tag Manager" title="Google Tag Manager" width="24" src="icons/googletagmanager.svg">
+</picture>
+
+<br>
 
 ## IDEs ⌨️
 <picture class="icon">
