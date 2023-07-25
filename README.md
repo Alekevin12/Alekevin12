@@ -49,6 +49,12 @@ I'm a 25 years old Full Stack Developer with a passion for technology 👨‍�
 </picture>
 &nbsp;
 <picture class="icon">
+  <source media="(prefers-color-scheme: dark)" srcset="icons/typescript.svg">
+  <source media="(prefers-color-scheme: light)" srcset="icons/typescript.svg">
+  <img alt="TypeScript" title="TypeScript" width="24" src="icons/typescript.svg">
+</picture>
+&nbsp;
+<picture class="icon">
   <source media="(prefers-color-scheme: dark)" srcset="icons/sass.svg">
   <source media="(prefers-color-scheme: light)" srcset="icons/sass.svg">
   <img alt="SASS" title="SASS" width="24" src="icons/sass.svg">
